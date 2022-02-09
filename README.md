@@ -8,5 +8,6 @@ Menggunakan telegraf-js sebagai kerangka kerja. Mengantrekan foto dan video dala
 <br><br>
 
 
+#### Deploy on Heroku
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/newkanekibot/bumbots"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-green?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
