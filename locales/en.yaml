@@ -1,0 +1,10 @@
+greeting: "Hallo ${username}! Pernahkah Anda menemukan beberapa gambar indah di Telegram, yang ingin Anda kelompokkan bersama, tetapi tidak ingin menurunkannya- dan mengunggah semuanya lagi? Biarkan saya melakukan itu untuk Anda benar-benar cepat.\n\nKirimi saya foto atau video apa pun dan saya akan membuat Album darinya!\n\n"
+help: 'Cukup teruskan atau kirimi saya beberapa foto atau video. Setelah selesai, tekan tombol "Buat Album" dan buat semua file yang Anda kirim sebelumnya menjadi satu sebagai album. Jika album kacau, klik "Hapus Album" untuk memulai lagi.\n\nDibuat oleh @Cyberhunt27.'
+settings: 'Tidak ada pengaturan yang harus dilakukan di sini'
+source: "https://github.com/erickskynet"
+
+
+keyboard_done: "Buat Album"
+keyboard_clear: "Reset Album"
+not_enough_media_items: "Maaf, tetapi Anda harus mengirimi saya lebih dari dua Media (Gambar atau Video) untuk membuat Album."
+queue_cleared: "Saya lupa tentang semua foto dan video yang Anda kirimkan kepada saya. Anda mendapat kesempatan baru."
