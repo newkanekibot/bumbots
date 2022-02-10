@@ -125,9 +125,4 @@ bot.hears(TelegrafI18n.match('keyboard_clear'), (ctx) => {
 
 
 // Start the bot
-console.log(
-  `Starting longPolling (chat_id of bot: ${
-    process.env.BOT_TOKEN.split(":")[0]
-  })...`
-);
-bot.launch();
+bot.startPolling()
